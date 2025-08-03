@@ -29,7 +29,7 @@ These notes cover:
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/c-language-notes.git
+   git clone https://github.com/bveeru370/c-language-notes.git
 
 ⭐ Support
 If you find this repository helpful, don’t forget to star 🌟 it!
